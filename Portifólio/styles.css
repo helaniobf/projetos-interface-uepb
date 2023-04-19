@@ -1,5 +1,5 @@
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
 	h1 {
 		font-size: 240px;
 	}
@@ -24,7 +24,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 48px;
+    font-size: 30px;
   }
   /* Estilo da barra de navegação */
   #navbar {
