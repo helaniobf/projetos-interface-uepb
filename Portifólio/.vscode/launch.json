@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "file:///C:/Users/pc/Desktop/portifolio/portifolio.html",
+            "url": "file:///C:/Users/pc/Documents/GitHub/projetos-interface-uepb/Portif%C3%B3lio/portifolio.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
